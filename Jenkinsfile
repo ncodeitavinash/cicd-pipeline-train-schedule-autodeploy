@@ -49,6 +49,7 @@ pipeline {
             }
 14
         }
+        
 15
         stage('Build Docker Image') {
 16
